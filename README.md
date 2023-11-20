@@ -1,4 +1,4 @@
-![image](https://github.com/seonggegun/lolrecord/assets/79897862/8751e854-c04b-45da-8ba1-1769ff2c2371)# lolrecord
+<img src= https://github.com/seonggegun/lolrecord/assets/79897862/8751e854-c04b-45da-8ba1-1769ff2c2371># lolrecord
 # 1. 개 요
 League Of Lengend(이하 LOL)는 전 세계에서 즐기는 대표적인 컴퓨터 게임이다. LOL은 e-sports 산업에서 대표적인 콘텐츠로 자리매김하고 있으며, 2022년 항저우 아시안 게임에서는 정식 종목으로 채택될 만큼 그 영향력은 이미 검증되어 있는 사실이다. 
 
