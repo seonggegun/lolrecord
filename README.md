@@ -15,7 +15,7 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae>
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151><br>
   <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>티어 분포표</summary>
 <div markdown="1">
 <table>
   <tr><th>티어</th><th>단계</th><th>분포</th><th>합</th></tr>
