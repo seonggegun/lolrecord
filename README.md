@@ -15,8 +15,8 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae>
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151><br>
 <table>
-  <tr><th>티어</th><th>단계</th><th>분포</th></tr>
-  <tr><th rowspan='1'>챌린져</th><th>I</th><td>0.0018%</td></tr>
+  <tr><th>티어</th><th>단계</th><th>분포</th><th>합</th></tr>
+  <tr><th rowspan='1'>챌린져</th><th>I</th><td>0.0018%</td><td>0.0018</td></tr>
   <tr><th rowspan='1'>그랜드마스터</th><th>I</th><td>0.043%</td></tr>
   <tr><th rowspan='1'>마스터</th><th>I</th><td>0.51%</td></tr>
    <tr><th rowspan='4'>다이아</th><th>I</th><td>0.44%</td></tr>
