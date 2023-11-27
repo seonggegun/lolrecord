@@ -11,6 +11,10 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 이번 프로젝트에 활용할 데이터는 온라인 게임 코칭 전문기업인 더매치랩(The Match LAB)에서 가공한 LOL 게임 데이터를 바탕으로 한다. 데이터는 2023년 8월 25일, 9월 15일, 9월 17일 각각 하루 동안 수집된 LOL 경기에 대한 세부 항목들로 구성되어 있다.
 
 ## 2.2 탐색적 데이터 분석
+티어에 대한 정보 (표)
+  <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae>
+  <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151>
+  
 데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며, 포지션별로 데이터가 구분되어 있다. 5가지 포지션에 대한 내용은 다음과 같다.
 
 <img src = https://github.com/seonggegun/lolrecord/assets/79897862/0d6dc375-4a51-4b5e-9180-fe89ae0e529a>
@@ -53,8 +57,6 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 이에 이번 프로젝트에서는 다음과 같이 정의되는 LOL게임의 등급체계(tier)를 바탕으로, 모든 플레이어가 플래티넘 이상인 경기를 추출하여 분석해보고자 한다.
 
 * 티어에 대한 정보 (표)
-  <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae>
-  <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151>
 * 티어별 히스토그램
 * 플래티넘 이상인 경기의 수
 
