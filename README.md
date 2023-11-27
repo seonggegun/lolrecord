@@ -53,8 +53,8 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 이에 이번 프로젝트에서는 다음과 같이 정의되는 LOL게임의 등급체계(tier)를 바탕으로, 모든 플레이어가 플래티넘 이상인 경기를 추출하여 분석해보고자 한다.
 
 * 티어에 대한 정보 (표)
-  <src img = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae><br>
-  <src img = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151><br>
+  <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae><br>
+  <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151><br>
 * 티어별 히스토그램
 * 플래티넘 이상인 경기의 수
 
