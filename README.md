@@ -16,15 +16,37 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151><br>
 <table>
   <tr><th>티어</th><th>단계</th><th>분포</th></tr>
-  <tr><th rowspan='1'>챌린져</th><th>I</th><td>0.0018</td></tr>
-  <tr><th rowspan='1'>그랜드마스터</th><th>I</th><td>0.043</td></tr>
-  <tr><th rowspan='1'>마스터</th><th>I</th><td>0.51</td></tr>
-   <tr><th rowspan='4'>다이아</th><th>I</th><td>0.44</td></tr>
-  <tr><th>II</th><td>0.55</td></tr>
-  <tr><th>III</th><td>0.58</td></tr>
-   <tr><th>IV</th><td>1.3</td></tr>
-  <tr><th rowspan='1'>제외 (3)</th><th>0</th><td>3(블라인드조치된 언행)</td></tr>
-  <tr><th colspan='2'>계</th><td>22921</td></tr>
+  <tr><th rowspan='1'>챌린져</th><th>I</th><td>0.0018%</td></tr>
+  <tr><th rowspan='1'>그랜드마스터</th><th>I</th><td>0.043%</td></tr>
+  <tr><th rowspan='1'>마스터</th><th>I</th><td>0.51%</td></tr>
+   <tr><th rowspan='4'>다이아</th><th>I</th><td>0.44%</td></tr>
+  <tr><th>II</th><td>0.55%</td></tr>
+  <tr><th>III</th><td>0.58%</td></tr>
+   <tr><th>IV</th><td>1.3%</td></tr>
+    <tr><th rowspan='4'>에메랄드</th><th>I</th><td>1.4%</td></tr>
+  <tr><th>II</th><td>1.8%</td></tr>
+  <tr><th>III</th><td>2.9%</td></tr>
+   <tr><th>IV</th><td>6.3%</td></tr>
+    <tr><th rowspan='4'>플레티넘</th><th>I</th><td>2.0%</td></tr>
+  <tr><th>II</th><td>3.0%</td></tr>
+  <tr><th>III</th><td>4.0%</td></tr>
+   <tr><th>IV</th><td>7.0%</td></tr>
+    <tr><th rowspan='4'>골드</th><th>I</th><td>2.6%</td></tr>
+  <tr><th>II</th><td>4.0%</td></tr>
+  <tr><th>III</th><td>4.9%</td></tr>
+   <tr><th>IV</th><td>7.9%</td></tr>
+    <tr><th rowspan='4'>실버</th><th>I</th><td>2.8%</td></tr>
+  <tr><th>II</th><td>4.1%</td></tr>
+  <tr><th>III</th><td>5.0%</td></tr>
+   <tr><th>IV</th><td>7.4%</td></tr>
+    <tr><th rowspan='4'>브론즈</th><th>I</th><td>3.3%</td></tr>
+  <tr><th>II</th><td>4.6%</td></tr>
+  <tr><th>III</th><td>5.3%</td></tr>
+   <tr><th>IV</th><td>7.3%</td></tr>
+    <tr><th rowspan='4'>아이언</th><th>I</th><td>3.3%</td></tr>
+  <tr><th>II</th><td>2.6%</td></tr>
+  <tr><th>III</th><td>1.1%</td></tr>
+   <tr><th>IV</th><td>0.49%</td></tr>
 </table> <br>
   티어는 아이언부터 다이아까지 IV~I 단계로 구분되며 그이상 마스터부터는 랭킹순으로 배치되며 휴면강등이란것이 있어 계속 게임을하여 등급을 유지해야한다.
 <hr>
