@@ -14,6 +14,15 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 티어에 대한 정보 (표)
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae>
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151><br>
+<table>
+  <tr><th>티어</th><th>단계</th><th>분포</th></tr>
+  <tr><th rowspan='1'>챌린쳐 (21,281)</th><th>I</th><td>0.0018</td></tr>
+  <tr><th rowspan='3'>부정 (1637)</th><th>3</th><td>1,045</td></tr>
+  <tr><th>2</th><td>291</td></tr>
+  <tr><th>1</th><td>301</td></tr>
+  <tr><th rowspan='1'>제외 (3)</th><th>0</th><td>3(블라인드조치된 언행)</td></tr>
+  <tr><th colspan='2'>계</th><td>22921</td></tr>
+</table> <br>
   티어는 아이언부터 다이아까지 IV~I 단계로 구분되며 그이상 마스터부터는 랭킹순으로 배치되며 휴면강등이란것이 있어 계속 게임을하여 등급을 유지해야한다.
 <hr>
 데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며, 포지션별로 데이터가 구분되어 있다. 5가지 포지션에 대한 내용은 다음과 같다.
