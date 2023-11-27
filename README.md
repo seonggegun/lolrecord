@@ -25,7 +25,7 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
    <tr><th>IV</th><td>1.3%</td></tr>
     <tr><th rowspan='4'>에메랄드</th><th>I</th><td>1.4%</td></tr>
   <tr><th>II</th><td>1.8%</td></tr>
-  <tr><th>III</th><td>2.9%</td></tr>
+  <tr><th>III</th><td>2.9%</td><td>19%</td></tr>
    <tr><th>IV</th><td>6.3%</td></tr>
     <tr><th rowspan='4'>플레티넘</th><th>I</th><td>2.0%</td></tr>
   <tr><th>II</th><td>3.0%</td></tr>
