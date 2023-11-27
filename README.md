@@ -14,7 +14,8 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 티어에 대한 정보 (표)
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/78f03c88-4312-4c3c-bf6d-5e58524bc7ae>
   <img src = https://github.com/seonggegun/lolrecord/assets/79897862/9f548192-65b7-4860-abe1-c9c2ab69f151>
-  
+  티어는 아이언부터 다이아까지 IV~I 단계로 구분되며 그이상부터는 랭킹순으로 배치되며 휴면강등이란것이 있어 계속 게임을하여 등급을 유지해야한다.
+<hr>
 데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며, 포지션별로 데이터가 구분되어 있다. 5가지 포지션에 대한 내용은 다음과 같다.
 
 <img src = https://github.com/seonggegun/lolrecord/assets/79897862/0d6dc375-4a51-4b5e-9180-fe89ae0e529a>
