@@ -1,5 +1,5 @@
 <div align=center><h1>League of Legends 데이터로 승패예측하기 </h1></div>
-<div align=center><img src = https://github.com/seonggegun/lollol/assets/79897862/f25802bc-dd95-4d91-baf6-9a7b00bb2de3></div>
+<div align=center><img src = https://github.com/seonggegun/lolrecord/assets/79897862/f25802bc-dd95-4d91-baf6-9a7b00bb2de3></div>
 
 <hr>
 
